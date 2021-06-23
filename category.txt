@@ -1,0 +1,1 @@
+[[{"category":"kg_to_gram","unit":"1","rate":"1000"}],{"category":"gram_to_kg","unit":"1","rate":".001"}]
